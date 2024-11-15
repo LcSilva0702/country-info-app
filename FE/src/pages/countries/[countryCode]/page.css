@@ -1,0 +1,7 @@
+.country-flag{
+    width: 60px;
+    height: auto;
+    gap: 10px;
+    flex: auto; 
+}
+  
